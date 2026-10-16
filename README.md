@@ -1,4 +1,4 @@
-# Assistente Plurall
+# Assistente Estudos
 
 Extensão Chrome para auxiliar na leitura e análise de questões do Plurall usando Ollama local.
 
